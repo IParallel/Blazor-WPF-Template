@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWPF.WebApp", "BlazorWPF.WebApp\BlazorWPF.WebApp.csproj", "{A6FA2F7F-1A74-4423-8B34-1CDB500AB17C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWPF.App", "BlazorWPF.App\BlazorWPF.App.csproj", "{7047E605-BF7A-4481-A2C8-690A8C81730D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6FA2F7F-1A74-4423-8B34-1CDB500AB17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6FA2F7F-1A74-4423-8B34-1CDB500AB17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6FA2F7F-1A74-4423-8B34-1CDB500AB17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6FA2F7F-1A74-4423-8B34-1CDB500AB17C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7047E605-BF7A-4481-A2C8-690A8C81730D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7047E605-BF7A-4481-A2C8-690A8C81730D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7047E605-BF7A-4481-A2C8-690A8C81730D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7047E605-BF7A-4481-A2C8-690A8C81730D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

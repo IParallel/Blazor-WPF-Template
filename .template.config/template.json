@@ -1,0 +1,15 @@
+{
+    "$schema": "https://json.schemastore.org/template",
+    "author": "Bello",
+    "classifications": ["Web", "WPF", "Desktop", "App"],
+    "identity": "Blazor.Desktop.App",
+    "name": "Blazor WPF Desktop App",
+    "shortName": "blazordapp",
+    "sourceName": "BlazorWPF",
+    "tags": {
+        "language": "C#",
+        "framework": "Blazor",
+        "type": "project"
+    },
+    "preferNameDirectory": true
+}
